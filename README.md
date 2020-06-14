@@ -5,6 +5,7 @@
 * Spark Streaming
 * Airflow
 * MYSQL
+* Machine Learning
 * Dash/Plotly
 * Jupyter Notebook
 * Pandas
