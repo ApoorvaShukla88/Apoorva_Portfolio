@@ -2,8 +2,9 @@
 [Public Sentiment Analysis on COVID_19](https://github.com/ApoorvaShukla88/DataZCW-Final-Project)
 * Python 3.7
 * Kafka
-* Spark
+* Spark Streaming
 * Airflow
+* MYSQL
 * Dash/Plotly
 * Jupyter Notebook
 * Pandas
@@ -40,6 +41,7 @@
 [AmazonFires](https://github.com/ApoorvaShukla88/PandasDataTypes/tree/master/PandaProject)
 * Jupyter Notebook
 * Pandas, Matplotlib, GoogleTrans
+
 
 
 
