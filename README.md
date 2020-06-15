@@ -39,6 +39,7 @@
 [Black Jack](https://github.com/ApoorvaShukla88/Blackjack)
 * Python 3.7
 * Classes 
+* OOPs concepts
 * Unit Testing
 * Terminal
 
@@ -47,6 +48,8 @@
 [AmazonFires](https://github.com/ApoorvaShukla88/PandasDataTypes/tree/master/PandaProject)
 * Jupyter Notebook
 * Pandas, Matplotlib, GoogleTrans
+
+
 
 
 
